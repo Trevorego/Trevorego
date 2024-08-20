@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trevorego
 - 🌌Physics Major
-- 💞️ I’m looking to collaborate on Any Commercial/Non-Commercial Projects
+- 👨‍💻 I’m looking to collaborate on Any Commercial/Non-Commercial Projects
 - 📫 How to reach me Discord: Trevorego
 
 <!---
